@@ -1,0 +1,21 @@
+.div1{
+    width: 100%;
+}
+.div2{
+    width: 100%;
+    border-radius: 20px;
+    background-color: #ECF0F1;
+}
+.letraTituloresult{
+    margin-top: 13%;
+    font-weight: 700;
+    font-size: 56px;
+    letter-spacing: 5px;
+    padding-top: 11px;
+}
+.imgiconresult{
+    width: 50px;
+    margin: 20px;
+}
+
+ 
